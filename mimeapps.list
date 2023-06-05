@@ -1,0 +1,8 @@
+[Default Applications]
+application/x-zerosize=vim.desktop
+inode/symlink=vscode.desktop
+
+[Added Associations]
+application/x-zerosize=vim.desktop;
+inode/symlink=vscode.desktop;
+text/plain=vscode.desktop;

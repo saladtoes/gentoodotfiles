@@ -1,0 +1,12 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-2520d71c-f463-46b0-8dad-f94eab22629d=none,none,Switch to activity "Default"
+
+[systemsettings.desktop]
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
+kcm-kscreen=none,none,Display Configuration
+kcm-lookandfeel=none,none,Global Theme
+kcm-users=none,none,Users
+powerdevilprofilesconfig=none,none,Energy Saving
+screenlocker=none,none,Screen Locking
